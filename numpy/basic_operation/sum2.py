@@ -1,5 +1,5 @@
 import numpy as np
 
-a = np.empty((3,3))
+a = np.array([[1,2],[3,4]])
 print(a)
 print("sum:", np.sum(a))
