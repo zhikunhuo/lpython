@@ -1,0 +1,445 @@
+<link data-ignore="true" rel="shortcut icon" type="image/x-icon" href="//qidian.gtimg.com/qd/favicon/qd_icon.c443c.ico">
+<link data-ignore="true" rel="Bookmark" type="image/x-icon" href="//qidian.gtimg.com/qd/favicon/qd_icon.c443c.ico">
+
+
+    
+<link rel="stylesheet" data-ignore="true" href="//qidian.gtimg.com/c/=/qd/css/reset.ddecf.css,/qd/css/global.d41d8.css,/qd/css/font.1727c.css,/qd/css/header.17852.css,/qd/css/module.89faa.css,/qd/css/list_module.37b81.css,/qd/css/rank.fe122.css,/qd/css/layout.5de0f.css,/qd/css/qd_popup.ed72c.css,/qd/css/footer.5ccc0.css,/qd/css/lbfUI/css/ComboBox.8997f.css,/qd/css/lbfUI/css/Button.e5a3e.css" />
+
+    
+</head>
+<body class="rank-type-1" id="-1">
+
+<div class="wrap">
+    <div class="top-nav" data-l1="1">
+    <div class="box-center cf">
+        <div class="login-box fr">
+            <div class="sign-in hidden">
+                <span>你好，</span><a class="black" id="user-name" href="//me.qidian.com" target="_blank" data-eid="qd_A08"></a><em>|</em><a class="black" id="msg-btn" href="//me.qidian.com/msg/systems.aspx?page=1" target="_blank" data-eid="qd_A09">消息<cite id="msg-box">(<i></i>)</cite></a><em>|</em><a id="exit-btn" href="javascript:" data-eid="qd_A10">退出</a>
+            </div>
+            <div class="sign-out">
+                <a id="login-btn" class="black" href="javascript:" data-eid="qd_A06">登录</a><em>|</em><a id="reg-btn" href="//passport.qidian.com/reg.html?appid=10&areaid=1&target=iframe&ticket=1&auto=1&autotime=30&returnUrl=https%3A%2F%2Fwww.qidian.com" target="_blank" data-eid="qd_A07">注册</a>
+            </div>
+        </div>
+        <div class="nav-link fl">
+            <a class="act" href="//www.qidian.com" data-eid="qd_A01">起点中文网</a>
+            <a href="//www.qdmm.com" target="_blank" data-eid="qd_A02">起点女生网</a><em>|</em>
+            <a href="http://chuangshi.qq.com" target="_blank" data-eid="qd_A03">创世中文网</a><em>|</em>
+            <a href="http://yunqi.qq.com" target="_blank" data-eid="qd_A04">云起书院</a><em>|</em>
+            
+            <a href="javascript:" id="switchEl" data-eid="qd_A182">繁体版</a>
+            <!--<em>|</em>
+            <a class="black" id="back-old" href="javascript:" data-eid="qd_A05">返回旧版</a>-->
+        </div>
+    </div>
+</div>
+
+<div class="top-op-box" id="j-topOpBox"></div>
+
+<div class="logo-wrap box-center" data-l1="2">
+    <div class="box-center cf">
+        <div class="book-shelf fr">
+            <a href="//me.qidian.com/bookCase/bookCase.aspx?caseId=-2" target="_blank" data-eid="qd_A14"><em class="iconfont shelf">&#xe60c;</em><i>我的书架</i>
+            </a>
+        </div>
+        <div class="logo fl">
+            <a href="//www.qidian.com" data-eid="qd_A11"></a>
+        </div>
+        <div class="search-wrap fl">
+            <form id="formUrl" action="//www.qidian.com/search" method="get" target="_blank">
+                <p><input class="search-box" id="s-box" name="kw" type="text" placeholder="英雄无敌之亡灵法神"></p>
+                <input class="submit-input" type="submit" id="searchSubmit" data-eid="qd_A13">
+                <label id="search-btn" class="search-btn" for="searchSubmit"><em class="iconfont" data-eid="qd_A13">
+                    &#xe60d;</em></label>
+            </form>
+        </div>
+    </div>
+</div>
+
+    
+<div class="main-nav-wrap" data-l1="3">
+    <div class="main-nav box-center cf" id="type-hover">
+        <div class="classify-list fl so-awesome" id="classify-list" data-l1="3">
+    <dl class="cf">
+        <dd class="left">
+            <a href="/xuanhuan" target="_blank" data-eid="qd_A71">
+                <cite>
+                    <em class="iconfont">&#xe642;</em>
+                                    <span class="info">
+                                        <i>玄幻</i>
+                                        <b>721722</b>
+                                    </span>
+                </cite>
+            </a>
+        </dd>
+        <dd>
+            <a href="/qihuan" target="_blank" data-eid="qd_A72">
+                <cite>
+                    <em class="iconfont">&#xe62f;</em>
+                                    <span class="info">
+                                        <i>奇幻
+                                        </i>
+                                        <b>159241</b>
+                                    </span>
+                </cite>
+            </a>
+        </dd>
+        <dd class="even left">
+            <a href="/wuxia" target="_blank" data-eid="qd_A73">
+                <cite>
+                    <em class="iconfont">&#xe632;</em>
+                                    <span class="info">
+                                        <i>武侠</i>
+                                        <b>45378</b>
+                                    </span>
+                </cite>
+            </a>
+            </dd>
+        <dd class="even">
+            <a href="/xianxia" target="_blank" data-eid="qd_A74">
+                <cite>
+                    <em class="iconfont">&#xe610;</em>
+                                    <span class="info">
+                                        <i>仙侠</i>
+                                        <b>236460</b>
+                                    </span>
+                </cite>
+            </a>
+        </dd>
+        <dd class="left">
+            <a href="/dushi" target="_blank" data-eid="qd_A75">
+                <cite>
+                    <em class="iconfont">&#xe62c;</em>
+                                    <span class="info">
+                                        <i>都市</i>
+                                        <b>374244</b>
+                                    </span>
+                </cite>
+            </a>
+        </dd>
+        <dd>
+            <a href="/xianshi" target="_blank" data-eid="qd_A76">
+                <cite>
+                    <em class="iconfont">&#xe614;</em>
+                                    <span class="info">
+                                        <i>现实</i>
+                                        <b>43492</b>
+                                    </span>
+                </cite>
+            </a>
+        </dd>
+        <dd class="even left">
+            <a href="/junshi" target="_blank" data-eid="qd_A77">
+                <cite>
+                    <em class="iconfont">&#xe602;</em>
+                                    <span class="info">
+                                        <i>军事</i>
+                                        <b>20623</b>
+                                    </span>
+                </cite>
+            </a>
+        </dd>
+        <dd class="even">
+            <a href="/lishi" target="_blank" data-eid="qd_A78">
+                <cite>
+                    <em class="iconfont">&#xe62d;</em>
+                                    <span class="info">
+                                        <i>历史</i>
+                                        <b>77225</b>
+                                    </span>
+                </cite>
+            </a>
+        </dd>
+        <dd class="left">
+            <a href="/youxi" target="_blank" data-eid="qd_A79">
+                <cite>
+                    <em class="iconfont">&#xe634;</em>
+                                    <span class="info">
+                                        <i>游戏</i>
+                                        <b>108311</b>
+                                    </span>
+                </cite>
+            </a>
+        </dd>
+        <dd>
+            <a href="/tiyu" target="_blank" data-eid="qd_A80">
+                <cite>
+                    <em class="iconfont tiyu">&#xe631;</em>
+                                    <span class="info">
+                                        <i>体育</i>
+                                        <b>9109</b>
+                                    </span>
+                </cite>
+            </a>
+        </dd>
+        <dd class="even left">
+            <a href="/kehuan" target="_blank" data-eid="qd_A81">
+                <cite>
+                    <em class="iconfont">&#xe603;</em>
+                                    <span class="info">
+                                        <i>科幻</i>
+                                        <b>157333</b>
+                                    </span>
+                </cite>
+            </a>
+        </dd>
+        <dd class="even">
+            <a href="/lingyi" target="_blank" data-eid="qd_A82">
+                <cite>
+                    <em class="iconfont lingyi">&#xe641;</em>
+                                    <span class="info">
+                                        <i>悬疑</i>
+                                        <b>66996</b>
+                                    </span>
+                </cite>
+            </a>
+        </dd>
+        <dd class="left">
+            <a href="//www.qdmm.com/" target="_blank" data-eid="qd_A83">
+                <cite>
+                    <em class="iconfont">&#xe67c;</em>
+                                    <span class="info">
+                                        <i>女生网</i>
+                                        <b>800350</b>
+                                    </span>
+                </cite>
+            </a>
+        </dd>
+        <dd>
+            <a href="/2cy" target="_blank" data-eid="qd_A84">
+                <cite>
+                    <em class="iconfont erciyuan">&#xe617;</em>
+                                    <span class="info">
+                                        <i> 轻小说</i>
+                                        <b>113490</b>
+                                    </span>
+                </cite>
+            </a>
+        </dd>
+    </dl>
+</div>
+
+        <ul>
+            <li class="first"><b><strong></strong></b><span><em>
+                <i></i>
+                <i></i>
+                <i></i>
+            </em>作品分类</span>
+            </li>
+            <li class="nav-li"><a href="//www.qidian.com/all" data-eid="qd_A15" >全部作品</a></li>
+            <li class="nav-li"><a href="//www.qidian.com/rank" data-eid="qd_A16" class=act>排行</a></li>
+            <li class="nav-li"><a href="//www.qidian.com/finish" data-eid="qd_A17" >完本</a></li>
+            <li class="nav-li"><a href="//www.qidian.com/free" data-eid="qd_A18" >免费</a></li>
+            <li class="nav-li"><a href="https://write.qq.com/public/login.html" target="_blank" data-eid="qd_A19">作家专区</a>
+            </li>
+            <li class="nav-li"><a href="https://www.yuewen.com/app.html#appqd" target="_blank" data-eid="qd_A20"><b class="iconfont client">&#xe604;</b>客户端</a>
+            </li>
+            <li class="game phone" id="game-phone">
+    <a class="phone-game" href="http://sy.qidian.com" target="_blank" data-eid="qd_A22"><b class="iconfont webgame">
+        &#xe630;</b>手游</a>
+    <div class="game-dropdown hidden" id="phone-dropdown">
+        <cite></cite>
+        <dl class="phone-list">
+            
+            <dd>
+                <h3>
+                    
+                    <a href="" data-eid="qd_A39" target="_blank">小小勇士</a><i>少年的奇幻冒险</i></h3>
+                <p><a href="http://collect.game.qidian.com/Home/Stat/Index?gourl=aHR0cDovL3N5LnFpZGlhbi5jb20vSG9tZS9QYy9JbmRleC9kZXRhaWwvZ2FtZWlkLzIwMDkzNg==&amp;code=5733ed85f2cd0" target="_blank" data-eid="qd_A39"><img src="//img0.qidian.com/upload/gamesy/2019/08/15/20190815111920ijmg26dqly.jpg"><i class="op-tag"></i></a></p>
+            </dd>
+            
+            <dd>
+                <h3>
+                    
+                    <a href="" data-eid="qd_A40" target="_blank">血灵诀</a><i>御剑乘风 俯瞰仙界</i></h3>
+                <p><a href="http://collect.game.qidian.com/Home/Stat/Index?gourl=aHR0cDovL3N5LnFpZGlhbi5jb20vSG9tZS9QYy9JbmRleC9kZXRhaWwvZ2FtZWlkLzIwMDkzNQ==&amp;code=5733edc4a3435" target="_blank" data-eid="qd_A40"><img src="//img.qidian.com/upload/gamesy/2019/08/29/20190829103258tsdkdx8azb.jpg"><i class="op-tag"></i></a></p>
+            </dd>
+            
+            <dd>
+                <h3>
+                    
+                    <a href="" data-eid="qd_A41" target="_blank">朝歌封神录</a><i>八荒仙海 列位封神</i></h3>
+                <p><a href="http://collect.game.qidian.com/Home/Stat/Index?gourl=aHR0cDovL3N5LnFpZGlhbi5jb20vSG9tZS9QYy9JbmRleC9kZXRhaWwvZ2FtZWlkLzIwMDkxNA==&amp;code=5769f94031529" target="_blank" data-eid="qd_A41"><img src="//img.qidian.com/upload/gamesy/2019/08/23/20190823104731rfpjytvpe6.jpg"><i class="op-tag"></i></a></p>
+            </dd>
+            
+        </dl>
+        <div class="bottom">
+            <h4>新游|刀剑萌侠</h4>
+            <p><a href="http://sy.qidian.com/Home/Pc/Index/detail/gameid/200916?qd_game_key=192x86&amp;qd_dd_p1=10655" data-eid="qd_A42" target="_blank"><img src="//bossaudioandcomic-1252317822.image.myqcloud.com/activity/document/96e558aaa5ce63a7f53353eca9efd693.jpg" alt=""><i class="op-tag"></i></a></p>
+        </div>
+    </div>
+</li>
+<li class="game web" id="game-web">
+    <a class="web-game" href="http://game.qidian.com/" target="_blank" data-eid="qd_A21"><b class="iconfont">
+        &#xe60b;</b>页游</a>
+    <div class="game-dropdown hidden" id="web-dropdown">
+        <cite></cite>
+        <div class="web-game-list">
+            <dl class="lately" id="lately">
+                <dt>最近玩过</dt>
+                <dd data-rid="1"><li class=""><a href="//www.qidian.com/rank" data-eid="qd_C01">人气榜单</a><cite></cite></li>
+    </ul>
+    <p class="line"></p>
+    <h4>热门作品排行</h4>
+    <ul class="list_type_detective">
+        <li class="act"><a href="//www.qidian.com/rank/yuepiao?style=1" data-eid="qd_C02">原创风云榜</a><cite></cite></li>
+        <li class=""><a href="//www.qidian.com/rank/hotsales?style=1" data-eid="qd_C03">24小时热销榜</a><cite></cite></li>
+        <li class=""><a href="//www.qidian.com/rank/readIndex?style=1" data-eid="qd_C68">阅读指数榜</a><cite></cite></li>
+        <li class=""><a href="//www.qidian.com/rank/newFans?style=1" data-eid="qd_C69">新增粉丝榜</a><cite></cite></li>
+        <!-- <li class=""><a href="//www.qidian.com/rank/newvipclick?style=1" data-eid="qd_C68">新锐会员周点击榜</a><cite></cite></li>
+        <li class=""><a href="//www.qidian.com/rank/click?style=1" data-eid="qd_C04">会员点击榜</a><cite></cite></li> -->
+        <li class=""><a href="//www.qidian.com/rank/recom?style=1" data-eid="qd_C05">推荐票榜</a><cite></cite></li>
+        <li class=""><a href="//www.qidian.com/rank/collect?style=1" data-eid="qd_C06">收藏榜</a><cite></cite></li>
+        <li class=""><a href="//www.qidian.com/rank/vipup?style=1" data-eid="qd_C07">VIP更新榜</a><cite></cite></li>
+        <li class=""><a href="//www.qidian.com/rank/vipcollect?style=1" data-eid="qd_C08">VIP收藏榜</a><cite></cite></li>
+        <li class=""><a href="//www.qidian.com/rank/vipreward?style=1" data-eid="qd_C09">VIP精品打赏榜</a><cite></cite></li>
+        <!-- <li class=""><a href="//www.qidian.com/rank/fin?style=1" data-eid="qd_C10">完本榜</a><cite></cite></li> -->
+    </ul>
+    <p class="line"></p>
+    <h4>新书排行</h4>
+    <ul class="list_type_detective">
+        <li class=""><a href="//www.qidian.com/rank/signnewbook?style=1" data-eid="qd_C11">签约作者新书榜</a><cite></cite></li>
+        <li class=""><a href="//www.qidian.com/rank/pubnewbook?style=1" data-eid="qd_C12">公众作者新书榜</a><cite></cite></li>
+        <li class=""><a href="//www.qidian.com/rank/newsign?style=1" data-eid="qd_C13">新人签约新书榜</a><cite></cite></li>
+        <li class=""><a href="//www.qidian.com/rank/newauthor?style=1" data-eid="qd_C14">新人作者新书榜</a><cite></cite></li>
+    </ul>
+    <p class="line"></p>
+    <h4>社区排行</h4>
+    <ul>
+        <li class=""><a href="//www.qidian.com/rank/fans" data-eid="qd_C15">打赏粉丝榜</a><cite></cite></li>
+    </ul>
+    <p class="line"></p>
+    <h4>其他排行</h4>
+    <ul>
+        <li><a target="_blank" href="//www.qidian.com/mm/rank" data-eid="qd_C16">女生精选榜</a></li>
+        <li><a target="_blank" href="//www.qidian.com/mm/rank/yuepiao" data-eid="qd_C17">女生原创风云榜</a></li>
+        <!--<li><a target="_blank" href="http://wwwploy.qdmm.com/MMWeb/PKList.aspx" data-eid="qd_C18">女生PK榜</a></li>-->
+    </ul>
+</div>
+
+        <div class="main-content-wrap fl" data-l1="5">
+            <div class="rank-header">
+                <h3 class="lang">原创风云榜<span>当月VIP作品月票数排行</span></h3>
+                    
+                        <div class="rank-toolbar-wrap" data-year="2019" data-month="09">
+                            <div class="tool-box">
+                                <div class="btn-box cf">
+                                    <div class="view-mode fr" id="view-mode">
+                                        <a class="img-text iconfont act" href="javascript:" data-eid="qd_C35">&#xe62b;</a><em>|</em><a class="only-text iconfont " href="javascript:" data-eid="qd_C36">&#xe61a;</a>
+                                    </div>
+                                    <div id="year" class="lbf-combobox">
+                                        <select>
+                                             
+                                            <option value="2019"   selected >2019年</option>
+                                            
+                                            <option value="2018"  >2018年</option>
+                                            
+                                            <option value="2017"  >2017年</option>
+                                            
+                                            <option value="2016"  >2016年</option>
+                                            
+                                            <option value="2015"  >2015年</option>
+                                            
+                                            <option value="2014"  >2014年</option>
+                                            
+                                            <option value="2013"  >2013年</option>
+                                            
+                                            <option value="2012"  >2012年</option>
+                                            
+                                            <option value="2011"  >2011年</option>
+                                            
+                                            <option value="2010"  >2010年</option>
+                                            
+                                            <option value="2009"  >2009年</option>
+                                            
+                                            <option value="2008"  >2008年</option>
+                                            
+                                            <option value="2007"  >2007年</option>
+                                            
+                                            <option value="2006"  >2006年</option>
+                                            
+                                            <option value="2005"  >2005年</option>
+                                            
+                                        </select>
+                                        <a href="javascript:" class="lbf-button lbf-combobox-label" hidefocus="true">
+                                            <span class="lbf-combobox-caption">2019年</span>
+                                            <span class="lbf-combobox-icon">&nbsp;</span>
+                                        </a>
+                                    </div>
+                                    <div id="month" class="lbf-combobox">
+                                        <select>
+    
+                            
+                                             
+                                             
+                                            <option value="09"  selected >09月</option>
+                                            
+                                             
+                                            <option value="08" >08月</option>
+                                            
+                                             
+                                            <option value="07" >07月</option>
+                                            
+                                             
+                                            <option value="06" >06月</option>
+                                            
+                                             
+                                            <option value="05" >05月</option>
+                                            
+                                             
+                                            <option value="04" >04月</option>
+                                            
+                                             
+                                            <option value="03" >03月</option>
+                                            
+                                             
+                                            <option value="02" >02月</option>
+                                            
+                                             
+                                            <option value="01" >01月</option>
+                                            
+                            
+                                        </select>
+                                        <a href="javascript:" class="lbf-button lbf-combobox-label" hidefocus="true">
+                                            <span class="lbf-combobox-caption">09月</span>
+                                            <span class="lbf-combobox-icon">&nbsp;</span>
+                                        </a>
+                                    </div>
+                                </div>
+                                <p class="line"></p>
+                                                <div class="type-list">
+                    <p>
+                        
+                        <a data-chanid="-1" class="act" href="javascript:" data-eid="qd_C20">全部分类</a><em>&#183;</em>
+                        <a data-chanid="21" class="" href="javascript:" data-eid="qd_C21">玄幻</a><em>&#183;</em>
+                        <a data-chanid="1" class="" href="javascript:" data-eid="qd_C22">奇幻</a><em>&#183;</em>
+                        <a data-chanid="2" class="" href="javascript:" data-eid="qd_C23">武侠</a><em>&#183;</em>
+                        <a data-chanid="22" class="" href="javascript:" data-eid="qd_C24">仙侠</a><em>&#183;</em>
+                        <a data-chanid="4" class="" href="javascript:" data-eid="qd_C25">都市</a><em>&#183;</em>
+                        <a data-chanid="15" class="" href="javascript:" data-eid="qd_C26">现实</a><em>&#183;</em>
+                        <a data-chanid="6" class="" href="javascript:" data-eid="qd_C27">军事</a><em>&#183;</em>
+                        <a data-chanid="5" class="" href="javascript:" data-eid="qd_C28">历史</a><em>&#183;</em>
+                        <a data-chanid="7" class="" href="javascript:" data-eid="qd_C29">游戏</a><em>&#183;</em>
+                        <a data-chanid="8" class="" href="javascript:" data-eid="qd_C30">体育</a><em>&#183;</em>
+                        <a data-chanid="9" class="" href="javascript:" data-eid="qd_C31">科幻</a><em>&#183;</em>
+                        <a data-chanid="10" class="" href="javascript:" data-eid="qd_C32">悬疑</a><em>&#183;</em>
+                        <a data-chanid="12" class="" href="javascript:" data-eid="qd_C33"> 轻小说</a>
+                         
+                        <em>&#183;</em>
+                        <a data-chanid="0" class=""  href="javascript:" data-eid="qd_C34">当月新书</a>
+                        
+                        
+                    </p>
+                </div>
+
+                            
+                            </div>
+                        </div>
+                </div>
+                            <div class="rank-body">
+                                
+                                    <div class="rank-view-list" id="rank-view-list">
+                                   
+                                    <div class="book-img-text">
+                                        <ul>
+                                    
+                                            <li data-rid="1"><li data-rid="2"><li data-rid="3"><li data-rid="4"><li data-rid="5"><li data-rid="6"><li data-rid="7"><li data-rid="8"><li data-rid="9"><li data-rid="10"><li data-rid="11"><li data-rid="12"><li data-rid="13"><li data-rid="14"><li data-rid="15"><li data-rid="16"><li data-rid="17"><li data-rid="18"><li data-rid="19"><li data-rid="20">

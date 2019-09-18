@@ -1,0 +1,40 @@
+<span class="rank-tag no1 ">1
+<h4><a href="//book.qidian.com/info/1010868264" target="_blank" data-eid="qd_C40" data-bid="1010868264">诡秘之主</a></h4>
+<span class="rank-tag no2 ">2
+<h4><a href="//book.qidian.com/info/1013926412" target="_blank" data-eid="qd_C40" data-bid="1013926412">暗月纪元</a></h4>
+<span class="rank-tag no3 ">3
+<h4><a href="//book.qidian.com/info/1012237441" target="_blank" data-eid="qd_C40" data-bid="1012237441">全球高武</a></h4>
+<span class="rank-tag no4 ">4
+<h4><a href="//book.qidian.com/info/1014234529" target="_blank" data-eid="qd_C40" data-bid="1014234529">我夺舍了魔皇</a></h4>
+<span class="rank-tag no5 ">5
+<h4><a href="//book.qidian.com/info/1011489683" target="_blank" data-eid="qd_C40" data-bid="1011489683">谍影风云</a></h4>
+<span class="rank-tag no6 ">6
+<h4><a href="//book.qidian.com/info/1013414929" target="_blank" data-eid="qd_C40" data-bid="1013414929">手术直播间</a></h4>
+<span class="rank-tag no7 ">7
+<h4><a href="//book.qidian.com/info/1011058239" target="_blank" data-eid="qd_C40" data-bid="1011058239">伏天氏</a></h4>
+<span class="rank-tag no8 ">8
+<h4><a href="//book.qidian.com/info/1013562540" target="_blank" data-eid="qd_C40" data-bid="1013562540">第一序列</a></h4>
+<span class="rank-tag no9 ">9
+<h4><a href="//book.qidian.com/info/1012912018" target="_blank" data-eid="qd_C40" data-bid="1012912018">英雄联盟：我的时代</a></h4>
+<span class="rank-tag no10 ">10
+<h4><a href="//book.qidian.com/info/1013432302" target="_blank" data-eid="qd_C40" data-bid="1013432302">九星毒奶</a></h4>
+<span class="rank-tag no11 ">11
+<h4><a href="//book.qidian.com/info/1009817672" target="_blank" data-eid="qd_C40" data-bid="1009817672">轮回乐园</a></h4>
+<span class="rank-tag no12 ">12
+<h4><a href="//book.qidian.com/info/1010734492" target="_blank" data-eid="qd_C40" data-bid="1010734492">凡人修仙之仙界篇</a></h4>
+<span class="rank-tag no13 ">13
+<h4><a href="//book.qidian.com/info/3602691" target="_blank" data-eid="qd_C40" data-bid="3602691">修真聊天群</a></h4>
+<span class="rank-tag no14 ">14
+<h4><a href="//book.qidian.com/info/1014130981" target="_blank" data-eid="qd_C40" data-bid="1014130981">明日之劫</a></h4>
+<span class="rank-tag no15 ">15
+<h4><a href="//book.qidian.com/info/1010400217" target="_blank" data-eid="qd_C40" data-bid="1010400217">黎明之剑</a></h4>
+<span class="rank-tag no16 ">16
+<h4><a href="//book.qidian.com/info/1011449273" target="_blank" data-eid="qd_C40" data-bid="1011449273">学霸的黑科技系统</a></h4>
+<span class="rank-tag no17 ">17
+<h4><a href="//book.qidian.com/info/1011705052" target="_blank" data-eid="qd_C40" data-bid="1011705052">明朝败家子</a></h4>
+<span class="rank-tag no18 ">18
+<h4><a href="//book.qidian.com/info/1009480992" target="_blank" data-eid="qd_C40" data-bid="1009480992">超神机械师</a></h4>
+<span class="rank-tag no19 ">19
+<h4><a href="//book.qidian.com/info/1009704712" target="_blank" data-eid="qd_C40" data-bid="1009704712">牧神记</a></h4>
+<span class="rank-tag no20 ">20
+<h4><a href="//book.qidian.com/info/1013406185" target="_blank" data-eid="qd_C40" data-bid="1013406185">斗罗大陆IV终极斗罗</a></h4>
