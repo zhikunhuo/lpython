@@ -1,5 +1,4 @@
 import numpy as np
 
-a = np.empty((3,3))
+a = np.arange(10000).reshape(100,100)
 print(a)
-print("sum:", np.sum(a))
