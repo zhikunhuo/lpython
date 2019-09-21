@@ -2,7 +2,7 @@ import matplotlib.pylab as plt
 import numpy as np
 
 
-x = np.linspace(np.e, 10.0, 400)
+x = np.linspace(-4, 4, 400)
 plt.plot(x, np.tanh(x))
 plt.xlabel('Angle [rad]')
 plt.ylabel('tanh(x)')
