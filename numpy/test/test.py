@@ -10,8 +10,10 @@ def factorial(y):
         a=a*index    
     return a
 
-result_factorial = factorial(y)
-result = np.power(x, result_factorial) 
-print(" factorial,10: ", factorial(10))
+def calc_fun(x,y,z):
+    result_factorial = factorial(y)
+    return np.power(x, result_factorial)%z
+ 
+print(" result: ", calc_fun(x,y,z))
 
     
